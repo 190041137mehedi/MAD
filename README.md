@@ -1,1 +1,1 @@
-# MAD
+# IUT-CP-Scheduler-
